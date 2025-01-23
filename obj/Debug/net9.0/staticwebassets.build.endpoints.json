@@ -61711,17 +61711,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bZsoGDjf121+u2fTVioY2votB9pa398U0HGKQoo9b+Y=\""
+          "Value": "\"zBod6uowewCFnXSRyiKmAnEKdzk25GknJDVGcI7tkoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bZsoGDjf121+u2fTVioY2votB9pa398U0HGKQoo9b+Y="
+          "Value": "sha256-zBod6uowewCFnXSRyiKmAnEKdzk25GknJDVGcI7tkoQ="
         }
       ]
     },
@@ -61732,7 +61732,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000074526755"
+          "Quality": "0.000074521201"
         }
       ],
       "ResponseHeaders": [
@@ -61750,7 +61750,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13417"
+          "Value": "13418"
         },
         {
           "Name": "Content-Type",
@@ -61758,15 +61758,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rrv+fRJ0Y6tiPXF1R17wpB4RBGjxPxSqVH4ae53Y0aA=\""
+          "Value": "\"kgj3w5WiN7sD6O1CuCsxB1RnnH7gDSi9uztfQyGmfpQ=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bZsoGDjf121+u2fTVioY2votB9pa398U0HGKQoo9b+Y=\""
+          "Value": "W/\"zBod6uowewCFnXSRyiKmAnEKdzk25GknJDVGcI7tkoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 20:57:32 GMT"
+          "Value": "Thu, 23 Jan 2025 21:36:02 GMT"
         },
         {
           "Name": "Vary",
@@ -61776,7 +61776,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bZsoGDjf121+u2fTVioY2votB9pa398U0HGKQoo9b+Y="
+          "Value": "sha256-zBod6uowewCFnXSRyiKmAnEKdzk25GknJDVGcI7tkoQ="
         }
       ]
     },
@@ -61799,7 +61799,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13417"
+          "Value": "13418"
         },
         {
           "Name": "Content-Type",
@@ -61807,11 +61807,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rrv+fRJ0Y6tiPXF1R17wpB4RBGjxPxSqVH4ae53Y0aA=\""
+          "Value": "\"kgj3w5WiN7sD6O1CuCsxB1RnnH7gDSi9uztfQyGmfpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 20:57:32 GMT"
+          "Value": "Thu, 23 Jan 2025 21:36:02 GMT"
         },
         {
           "Name": "Vary",
@@ -61821,7 +61821,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rrv+fRJ0Y6tiPXF1R17wpB4RBGjxPxSqVH4ae53Y0aA="
+          "Value": "sha256-kgj3w5WiN7sD6O1CuCsxB1RnnH7gDSi9uztfQyGmfpQ="
         }
       ]
     },
@@ -65241,8 +65241,8 @@
       ]
     },
     {
-      "Route": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb",
-      "AssetFile": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb",
+      "Route": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm",
+      "AssetFile": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65255,44 +65255,44 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24168"
+          "Value": "19221"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ=\""
+          "Value": "\"fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:23 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3m9dblx7ja"
+          "Value": "5bvo9xmwn4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ="
+          "Value": "sha256-fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U="
         },
         {
           "Name": "label",
-          "Value": "_framework/provaSolucoesVistorias.pdb"
+          "Value": "_framework/provaSolucoesVistorias.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb",
-      "AssetFile": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb.gz",
+      "Route": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm",
+      "AssetFile": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000057544021"
+          "Quality": "0.000138370001"
         }
       ],
       "ResponseHeaders": [
@@ -65310,23 +65310,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17377"
+          "Value": "7226"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"dnOk0hOctRC99YOIAX1K6K9zRCmSpirFDxG4DUwJDHk=\""
+          "Value": "\"MfmQDkzriCSvPy2+ookIpu7ojWzET8qJ1zAoDQ1dwVo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ=\""
+          "Value": "W/\"fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         },
         {
           "Name": "Vary",
@@ -65336,21 +65336,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3m9dblx7ja"
+          "Value": "5bvo9xmwn4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ="
+          "Value": "sha256-fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U="
         },
         {
           "Name": "label",
-          "Value": "_framework/provaSolucoesVistorias.pdb"
+          "Value": "_framework/provaSolucoesVistorias.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb.gz",
-      "AssetFile": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb.gz",
+      "Route": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm.gz",
+      "AssetFile": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65367,19 +65367,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17377"
+          "Value": "7226"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"dnOk0hOctRC99YOIAX1K6K9zRCmSpirFDxG4DUwJDHk=\""
+          "Value": "\"MfmQDkzriCSvPy2+ookIpu7ojWzET8qJ1zAoDQ1dwVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         },
         {
           "Name": "Vary",
@@ -65389,11 +65389,172 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3m9dblx7ja"
+          "Value": "5bvo9xmwn4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dnOk0hOctRC99YOIAX1K6K9zRCmSpirFDxG4DUwJDHk="
+          "Value": "sha256-MfmQDkzriCSvPy2+ookIpu7ojWzET8qJ1zAoDQ1dwVo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/provaSolucoesVistorias.wasm.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/provaSolucoesVistorias.kbonfci08c.pdb",
+      "AssetFile": "_framework/provaSolucoesVistorias.kbonfci08c.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 21:37:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbonfci08c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/provaSolucoesVistorias.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/provaSolucoesVistorias.kbonfci08c.pdb",
+      "AssetFile": "_framework/provaSolucoesVistorias.kbonfci08c.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000057477871"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rBK4LB8ndrcNpVTr+c3ST6t5keKNYU/GYcBgeutmJKA=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbonfci08c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/provaSolucoesVistorias.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/provaSolucoesVistorias.kbonfci08c.pdb.gz",
+      "AssetFile": "_framework/provaSolucoesVistorias.kbonfci08c.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rBK4LB8ndrcNpVTr+c3ST6t5keKNYU/GYcBgeutmJKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbonfci08c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rBK4LB8ndrcNpVTr+c3ST6t5keKNYU/GYcBgeutmJKA="
         },
         {
           "Name": "label",
@@ -65403,7 +65564,7 @@
     },
     {
       "Route": "_framework/provaSolucoesVistorias.pdb",
-      "AssetFile": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb",
+      "AssetFile": "_framework/provaSolucoesVistorias.kbonfci08c.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65416,7 +65577,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24168"
+          "Value": "24172"
         },
         {
           "Name": "Content-Type",
@@ -65424,28 +65585,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ=\""
+          "Value": "\"IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:23 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ="
+          "Value": "sha256-IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg="
         }
       ]
     },
     {
       "Route": "_framework/provaSolucoesVistorias.pdb",
-      "AssetFile": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb.gz",
+      "AssetFile": "_framework/provaSolucoesVistorias.kbonfci08c.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000057544021"
+          "Quality": "0.000057477871"
         }
       ],
       "ResponseHeaders": [
@@ -65463,7 +65624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17377"
+          "Value": "17397"
         },
         {
           "Name": "Content-Type",
@@ -65471,15 +65632,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dnOk0hOctRC99YOIAX1K6K9zRCmSpirFDxG4DUwJDHk=\""
+          "Value": "\"rBK4LB8ndrcNpVTr+c3ST6t5keKNYU/GYcBgeutmJKA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ=\""
+          "Value": "W/\"IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         },
         {
           "Name": "Vary",
@@ -65489,13 +65650,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ="
+          "Value": "sha256-IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg="
         }
       ]
     },
     {
       "Route": "_framework/provaSolucoesVistorias.pdb.gz",
-      "AssetFile": "_framework/provaSolucoesVistorias.3m9dblx7ja.pdb.gz",
+      "AssetFile": "_framework/provaSolucoesVistorias.kbonfci08c.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65512,7 +65673,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17377"
+          "Value": "17397"
         },
         {
           "Name": "Content-Type",
@@ -65520,11 +65681,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dnOk0hOctRC99YOIAX1K6K9zRCmSpirFDxG4DUwJDHk=\""
+          "Value": "\"rBK4LB8ndrcNpVTr+c3ST6t5keKNYU/GYcBgeutmJKA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         },
         {
           "Name": "Vary",
@@ -65534,174 +65695,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dnOk0hOctRC99YOIAX1K6K9zRCmSpirFDxG4DUwJDHk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/provaSolucoesVistorias.qxczndc326.wasm",
-      "AssetFile": "_framework/provaSolucoesVistorias.qxczndc326.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19221"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qxczndc326"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/provaSolucoesVistorias.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/provaSolucoesVistorias.qxczndc326.wasm",
-      "AssetFile": "_framework/provaSolucoesVistorias.qxczndc326.wasm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000138638569"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7212"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/RTdym3e/PMsBa0Lfj1CVreQDnSncaDy3jof2a6UlnY=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qxczndc326"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/provaSolucoesVistorias.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/provaSolucoesVistorias.qxczndc326.wasm.gz",
-      "AssetFile": "_framework/provaSolucoesVistorias.qxczndc326.wasm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7212"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/RTdym3e/PMsBa0Lfj1CVreQDnSncaDy3jof2a6UlnY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qxczndc326"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/RTdym3e/PMsBa0Lfj1CVreQDnSncaDy3jof2a6UlnY="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/provaSolucoesVistorias.wasm.gz"
+          "Value": "sha256-rBK4LB8ndrcNpVTr+c3ST6t5keKNYU/GYcBgeutmJKA="
         }
       ]
     },
     {
       "Route": "_framework/provaSolucoesVistorias.wasm",
-      "AssetFile": "_framework/provaSolucoesVistorias.qxczndc326.wasm",
+      "AssetFile": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65722,28 +65722,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE=\""
+          "Value": "\"fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:23 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:17 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE="
+          "Value": "sha256-fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U="
         }
       ]
     },
     {
       "Route": "_framework/provaSolucoesVistorias.wasm",
-      "AssetFile": "_framework/provaSolucoesVistorias.qxczndc326.wasm.gz",
+      "AssetFile": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000138638569"
+          "Quality": "0.000138370001"
         }
       ],
       "ResponseHeaders": [
@@ -65761,7 +65761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7212"
+          "Value": "7226"
         },
         {
           "Name": "Content-Type",
@@ -65769,15 +65769,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/RTdym3e/PMsBa0Lfj1CVreQDnSncaDy3jof2a6UlnY=\""
+          "Value": "\"MfmQDkzriCSvPy2+ookIpu7ojWzET8qJ1zAoDQ1dwVo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE=\""
+          "Value": "W/\"fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         },
         {
           "Name": "Vary",
@@ -65787,13 +65787,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE="
+          "Value": "sha256-fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U="
         }
       ]
     },
     {
       "Route": "_framework/provaSolucoesVistorias.wasm.gz",
-      "AssetFile": "_framework/provaSolucoesVistorias.qxczndc326.wasm.gz",
+      "AssetFile": "_framework/provaSolucoesVistorias.5bvo9xmwn4.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -65810,7 +65810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7212"
+          "Value": "7226"
         },
         {
           "Name": "Content-Type",
@@ -65818,11 +65818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/RTdym3e/PMsBa0Lfj1CVreQDnSncaDy3jof2a6UlnY=\""
+          "Value": "\"MfmQDkzriCSvPy2+ookIpu7ojWzET8qJ1zAoDQ1dwVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 21:01:25 GMT"
+          "Value": "Thu, 23 Jan 2025 21:37:18 GMT"
         },
         {
           "Name": "Vary",
@@ -65832,7 +65832,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/RTdym3e/PMsBa0Lfj1CVreQDnSncaDy3jof2a6UlnY="
+          "Value": "sha256-MfmQDkzriCSvPy2+ookIpu7ojWzET8qJ1zAoDQ1dwVo="
         }
       ]
     },

@@ -1165,10 +1165,10 @@ C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\pw1vvi
 C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\falivvvabb-ydkkafbouo.gz
 C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\3cplwpad2w-exxngzf35n.gz
 C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\9zv66pj0tz-wk59jf30ap.gz
-C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.3m9dblx7ja.pdb
-C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.qxczndc326.wasm
-C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.3m9dblx7ja.pdb.gz
-C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.qxczndc326.wasm.gz
-C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\pvcufc2nom-qxczndc326.gz
-C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\an416kuuh2-3m9dblx7ja.gz
-C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\sptx8zxb9g-d4d8f2zb9y.gz
+C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.kbonfci08c.pdb
+C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.5bvo9xmwn4.wasm
+C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.kbonfci08c.pdb.gz
+C:\Users\janai\Desktop\provaSolucoesVistorias\bin\Debug\net9.0\wwwroot\_framework\provaSolucoesVistorias.5bvo9xmwn4.wasm.gz
+C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\pvcufc2nom-5bvo9xmwn4.gz
+C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\an416kuuh2-kbonfci08c.gz
+C:\Users\janai\Desktop\provaSolucoesVistorias\obj\Debug\net9.0\compressed\sptx8zxb9g-8buj1hca3g.gz

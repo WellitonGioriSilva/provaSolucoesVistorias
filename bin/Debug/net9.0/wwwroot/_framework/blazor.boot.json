@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "provaSolucoesVistorias",
   "resources": {
-    "hash": "sha256-61Mr/iBwv8wO9q4T8op2cylACaBJr/JXGT2IRBbgK0Y=",
+    "hash": "sha256-R8xi8BrrrvKPpSFBDhyIQp37qFr3Uob7wncAhFxb9wM=",
     "fingerprinting": {
       "BouncyCastle.Cryptography.07rrsqt6vw.wasm": "BouncyCastle.Cryptography.wasm",
       "Google.Protobuf.vkscnso5xw.wasm": "Google.Protobuf.wasm",
@@ -219,8 +219,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "provaSolucoesVistorias.qxczndc326.wasm": "provaSolucoesVistorias.wasm",
-      "provaSolucoesVistorias.3m9dblx7ja.pdb": "provaSolucoesVistorias.pdb"
+      "provaSolucoesVistorias.5bvo9xmwn4.wasm": "provaSolucoesVistorias.wasm",
+      "provaSolucoesVistorias.kbonfci08c.pdb": "provaSolucoesVistorias.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -448,10 +448,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "provaSolucoesVistorias.qxczndc326.wasm": "sha256-PndaJUMlDNRfdj14+3o0BTGsUsXSCzs/FaWQ2dQ/7eE="
+      "provaSolucoesVistorias.5bvo9xmwn4.wasm": "sha256-fx6uZKyqE9eKSnR+boZsUEWeAgigs/sbIQeuDi0p89U="
     },
     "pdb": {
-      "provaSolucoesVistorias.3m9dblx7ja.pdb": "sha256-66Biu0560ipB3FBC+h2CfdhjneyLTAqFUeDhDiyNqXQ="
+      "provaSolucoesVistorias.kbonfci08c.pdb": "sha256-IOa3Q1L253T/bcnSPveJrnYMi+esYsGVMVRLNmuMJvg="
     }
   },
   "cacheBootResources": true,
