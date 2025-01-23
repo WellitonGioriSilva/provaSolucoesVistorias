@@ -1,0 +1,35 @@
+﻿
+@page "/servico"
+
+<PageTitle>Serviços</PageTitle>
+
+<div>
+    <h3 class="mb-5">Consultar Serviços</h3>
+    
+    <div class="mb-5" style="display: flex; gap:20px;">
+        <div class="form-group" style="width: 70%;">
+            <label for="exampleFormControlInput1">Nome</label>
+            <input type="text" class="form-control" id="search-text">
+        </div>
+        <button type="button" class="btn btn-secondary" >Buscar</button>  
+        <button type="button" class="btn btn-primary" style="width: 10%;">
+          <NavLink class="nav-link" href="/servico/form">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Novo
+            </NavLink>
+        </button>
+    </div>
+
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Nome</th>
+      <th scope="col">Tipo</th>
+      <th scope="col">Valor</th>
+      <th scope="col">Tempo</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+  </tbody>
+</table>
+</div>
